@@ -1,0 +1,4 @@
+email,password,user_type,allowed_path
+a,a,admin,
+user1@example.com,password1,user,Sub-node 1: SysR
+user2@example.com,password2,user,
